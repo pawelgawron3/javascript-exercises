@@ -11,6 +11,7 @@ const fibonacci = function (num) {
     }
     return arr.at(-1);
   }
+  //not the most effective solution, weak memory menagement
 };
 
 // Do not edit below this line
